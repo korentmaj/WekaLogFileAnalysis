@@ -4,6 +4,8 @@
 
 # Weka Log File Analyisis
 
+3D plotting coming soon...
+
 ## Overview
 
 This project is designed to assist researchers, data scientists, and educators in analyzing Weka log files through visual representations. By uploading a Weka log file, users can easily generate learning graphs that visualize the performance and progression of machine learning models. This tool aims to simplify the analysis process, making it more accessible and understandable for individuals regardless of their technical background.
